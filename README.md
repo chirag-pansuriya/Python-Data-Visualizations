@@ -28,21 +28,10 @@
 <br>
 
 
-### ▶️ Youtube Playlist
-
-[![Setup for Visualization in Python](https://ytcards.demolab.com/?id=6Wl0B_Ib298&title=Setup+for+Visualization+in+Python&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=363 "Setup for Visualization in Python")](https://www.youtube.com/watch?v=6Wl0B_Ib298)
-[![Histogram in Python](https://ytcards.demolab.com/?id=G6Z_I2qensc&title=Histogram+in+Python&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=301 "Histogram in Python")](https://www.youtube.com/watch?v=G6Z_I2qensc)
-[![Pair Plot in Python](https://ytcards.demolab.com/?id=dCwgnw9Tl0I&title=Pair+Plot+in+Python&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=553 "Pair Plot in Python")](https://www.youtube.com/watch?v=dCwgnw9Tl0I)
-
-
-
-
-
-
 ## Steps
 **1. Clone the repository:**
 <pre>
-git clone https://github.com/MuhammadSaad-ml/Python-Data-Visualization
+git clone [https://github.com/chirag-pansuriya/Python-Data-Visualizations]
 </pre>
 **2. Create a virtual environment using `venv` or `conda`**
 <pre>
@@ -54,16 +43,16 @@ source env/bin/activate   # For Unix or Linux
 env\Scripts\activate      # For Windows
 </pre>
 **3. Install the required dependencies**
-   <a href="https://github.com/MuhammadSaad-ml/Python-Data-Visualization/requirements.txt">requirements.txt</a>
+   <a href="https://github.com/chirag-pansuriya/Python-Data-Visualizations/requirements.txt">requirements.txt</a>
 <pre>
 pip install -r requirements.txt
 </pre>
 
 **4. Explore the Jupyter Notebooks:**
 Link to Jupyter Notebooks that contain code for different types of plots:
-- <a href="https://github.com/MuhammadSaad-ml/Python-Data-Visualization/Data%20Analysis.ipynb">Dual Axis Chart.ipynb</a>
-- <a href="https://github.com/MuhammadSaad-ml/Python-Data-Visualization/Data%20Visualization.ipynb">Pair Plot.ipynb</a>
-- <a href="https://github.com/MuhammadSaad-ml/Python-Data-Visualization/Statistical%20Analysis.ipynb">Histogram.ipynb</a>
+- <a href="https://github.com/chirag-pansuriya/Python-Data-Visualization/Data%20Analysis.ipynb">Dual Axis Chart.ipynb</a>
+- <a href="https://github.com/chirag-pansuriya/Python-Data-Visualization/Data%20Visualization.ipynb">Pair Plot.ipynb</a>
+- <a href="https://github.com/chirag-pansuriya/Python-Data-Visualization/Statistical%20Analysis.ipynb">Histogram.ipynb</a>
 - More notebooks for specific charts like Bar Chart, Pie Chart, etc.
   
 
